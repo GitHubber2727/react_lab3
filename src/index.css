@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 1;
+  font-family: sans-serif;
+  background-color: lightskyblue;
+}
+
+.Card {
+  border: 1px solid black;
+  margin: 30px 80px;
+  padding: 30px;
+  font-size: 150%;
+  text-align: center;
+}
